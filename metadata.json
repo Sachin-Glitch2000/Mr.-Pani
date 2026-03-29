@@ -1,0 +1,5 @@
+{
+  "name": "Mr. Pani - Pure Water. Reliable Delivery.",
+  "description": "High-quality water supply service in Nepal. Jar water, tanker supply, and bulk delivery for households, offices, and construction sites.",
+  "requestFramePermissions": ["geolocation"]
+}
